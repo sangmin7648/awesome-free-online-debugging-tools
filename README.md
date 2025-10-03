@@ -12,6 +12,7 @@ PRs welcome – see **Contributing**.
 - [Regex Testers](#regex-testers)
 - [JSON / YAML / jq](#json--yaml--jq)
 - [Format / Minify / Unminify](#format--minify--unminify)
+- [SQL](#sql)
 - [Diff & Compare](#diff--compare)
 - [Time & IDs](#time--ids)
 - [Cookies & Tokens](#cookies--tokens)
@@ -62,6 +63,11 @@ PRs welcome – see **Contributing**.
 - **FreeFormatter XML Formatter** — Tidy & view XML. https://www.freeformatter.com/xml-formatter.html
 - **Minifier.org** — Minify JS & CSS online. https://www.minifier.org/
 - **Unminify.com** — Unminify JS/CSS/HTML/XML/JSON. https://unminify.com/
+
+## SQL
+
+- **db-fiddle** — An online SQL database playground. https://www.db-fiddle.com/
+- **dalibo-explain** — PostgreSQL EXPLAIN visualizer. https://explain.dalibo.com/
 
 ## Diff & Compare
 
