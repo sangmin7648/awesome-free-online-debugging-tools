@@ -32,6 +32,7 @@ PRs welcome – see **Contributing**.
 - **Webhook.site** — Instant unique URL to inspect incoming requests. https://webhook.site/
 - **RestNinja** — Simple online REST client/playground. https://restninja.io/
 - **curlconverter.com** — Turn cURL into Python/JS/Go/etc. https://curlconverter.com/
+- **Webhook Debugger** — Open-source webhook inspector with signature verification & 90-day history. https://webhook-debugger.autocompany.workers.dev/
 
 ## JSON / YAML / REGEX
 
