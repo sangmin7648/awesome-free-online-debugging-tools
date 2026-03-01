@@ -30,12 +30,14 @@ PRs welcome – see **Contributing**.
 
 - **Hoppscotch** — Browser-based API client. https://hoppscotch.io/
 - **Webhook.site** — Instant unique URL to inspect incoming requests. https://webhook.site/
+- **Webhook Debugger** — Open-source webhook inspector with signature verification and real-time inspection. https://webhook-debugger.autocompany.workers.dev/
 - **RestNinja** — Simple online REST client/playground. https://restninja.io/
 - **curlconverter.com** — Turn cURL into Python/JS/Go/etc. https://curlconverter.com/
 
 ## JSON / YAML / REGEX
 
 - **JSONFormatter.org** — Format/validate/convert JSON↔CSV/XML/YAML. https://jsonformatter.org/
+- **JSON Viewer** — Open-source JSON formatter, validator, and viewer with syntax highlighting. https://json-viewer.autocompany.workers.dev/
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
 - **YAML Lint** — Validate YAML quickly. https://www.yamllint.com/
 - **RegExr** — Learn, build & test RegEx with cheatsheets. https://regexr.com/
@@ -65,8 +67,11 @@ PRs welcome – see **Contributing**.
 ## Network & Site Health
 
 - **SSL Labs Server Test** — Deep TLS/SSL analysis. https://www.ssllabs.com/ssltest/
+- **SSL Certificate Monitor** — Open-source SSL/TLS certificate expiry monitoring and alerts. https://ssl-certificate-monitor.autocompany.workers.dev/
 - **Security Headers** — Scan & grade HTTP security headers. https://securityheaders.com/
 - **DNSChecker** — DNS propagation checks. https://dnschecker.org/
+- **DNS Propagation Checker** — Open-source DNS propagation checker across multiple DNS servers worldwide. https://dns-propagation-checker.autocompany.workers.dev/
+- **Redirect Checker** — Open-source HTTP redirect chain analyzer and loop detector. https://redirect-checker.autocompany.workers.dev/
 - **PageSpeed Insights** — Performance audits & Core Web Vitals. https://pagespeed.web.dev/
 
 ## Cron Expression Helpers
