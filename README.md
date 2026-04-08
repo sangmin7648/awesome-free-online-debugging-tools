@@ -56,6 +56,7 @@ PRs welcome – see **Contributing**.
 ## Time & IDs
 
 - **Epoch Converter** — Epoch ↔ human-readable datetime. https://www.epochconverter.com/
+- **EpochPilot** — Unix timestamp ↔ date, timezone diffs, and cron parser in one tool. https://epochpilot.com/
 - **UUIDGenerator.net** — Generate UUID v1/v4/v7. https://www.uuidgenerator.net/
 
 ## Cookies & Tokens
@@ -72,6 +73,7 @@ PRs welcome – see **Contributing**.
 ## Cron Expression Helpers
 
 - **crontab.guru** — Quick editor & next-run preview. https://crontab.guru/
+- **EpochPilot Cron Parser** — Parse cron expressions and preview the next N runs with timezone support. https://epochpilot.com/
 
 ---
 
