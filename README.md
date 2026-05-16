@@ -1,4 +1,10 @@
-# Awesome Free Online Debugging Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+
+---
+
+## 🛠️ All-in-One Developer Toolboxes
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools including JSON formatter/minifier, Base64 encoder/decoder, UUID generator, URL encoder/decoder, JWT decoder, hash generator, regex tester, QR code generator, password generator, and PDF tools. All client-side — no signup, no upload, works offline.# Awesome Free Online Debugging Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of **free, no-signup** tools you can use **in the browser** to debug code, APIs, logs, and web apps.
 PRs welcome – see **Contributing**.
