@@ -15,6 +15,7 @@ PRs welcome – see **Contributing**.
 - [Time & IDs](#time--ids)
 - [Cookies & Tokens](#cookies--tokens)
 - [Network & Site Health](#network--site-health)
+- [SEO & Meta Tag Debugging](#seo--meta-tag-debugging)
 - [Cron Expression Helpers](#cron-expression-helpers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -68,6 +69,11 @@ PRs welcome – see **Contributing**.
 - **Security Headers** — Scan & grade HTTP security headers. https://securityheaders.com/
 - **DNSChecker** — DNS propagation checks. https://dnschecker.org/
 - **PageSpeed Insights** — Performance audits & Core Web Vitals. https://pagespeed.web.dev/
+
+## SEO & Meta Tag Debugging
+
+- **TinyTools SEO Meta Tag Generator** — Preview Open Graph & Twitter card output, then generate the HTML `<meta>` snippet. https://tinytools-smoky.vercel.app/seo-meta-tag-generator
+- **TinyTools OG Image Generator** — Build & preview Open Graph images in the browser to debug social-share previews. https://tinytools-smoky.vercel.app/og-image-generator
 
 ## Cron Expression Helpers
 
