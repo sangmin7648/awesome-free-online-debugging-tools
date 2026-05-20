@@ -87,3 +87,10 @@ Spotted a great **free, browser-based** debugging tool?
 ## License
 
 CC0 – do anything, just keep it useful :)
+
+
+---
+
+## 📦 All-in-One File Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: JSON formatter, Base64, UUID, URL encoder, JWT decoder, regex tester, hash generator (MD5/SHA), QR codes, password generator, PDF (merge/split/compress/sign/OCR/redact), image (AI background removal, HEIC→JPG), video to GIF. Zero upload, works offline.
