@@ -36,6 +36,7 @@ PRs welcome – see **Contributing**.
 ## JSON / YAML / REGEX
 
 - **JSONFormatter.org** — Format/validate/convert JSON↔CSV/XML/YAML. https://jsonformatter.org/
+- **Mini Tools JSON Formatter** — Format, validate, minify and inspect JSON in the browser. https://mini-tools.uk/json
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
 - **YAML Lint** — Validate YAML quickly. https://www.yamllint.com/
 - **RegExr** — Learn, build & test RegEx with cheatsheets. https://regexr.com/
@@ -47,6 +48,7 @@ PRs welcome – see **Contributing**.
 - **Minifier.org** — Minify JS & CSS online. https://www.minifier.org/
 - **Unminify.com** — Unminify JS/CSS/HTML/XML/JSON. https://unminify.com/
 - **Diffchecker** — Quick text/code diffs. https://www.diffchecker.com/
+- **Mini Tools Text Diff Checker** — Compare text, code or documents with a side-by-side diff view. https://mini-tools.uk/diff
 
 ## SQL
 
