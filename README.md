@@ -39,6 +39,7 @@ PRs welcome – see **Contributing**.
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
 - **YAML Lint** — Validate YAML quickly. https://www.yamllint.com/
 - **RegExr** — Learn, build & test RegEx with cheatsheets. https://regexr.com/
+- **ToolPile** — 128+ browser-based developer utilities: JSON Formatter, JWT Decoder, Regex Tester, Base64 Encoder/Decoder, CSV↔JSON, Markdown→HTML, QR/Password Generator. Zero signup, zero tracking, 100% client-side (works offline after load). https://toolpile.dev
 
 ## Format / Minify / Unminify
 
