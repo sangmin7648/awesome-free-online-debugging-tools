@@ -13,6 +13,7 @@ PRs welcome – see **Contributing**.
 - [Format / Minify / Unminify](#format--minify--unminify)
 - [SQL](#sql)
 - [Time & IDs](#time--ids)
+- [Number Systems & Bitwise](#number-systems--bitwise)
 - [Cookies & Tokens](#cookies--tokens)
 - [Network & Site Health](#network--site-health)
 - [Cron Expression Helpers](#cron-expression-helpers)
@@ -57,6 +58,10 @@ PRs welcome – see **Contributing**.
 
 - **Epoch Converter** — Epoch ↔ human-readable datetime. https://www.epochconverter.com/
 - **UUIDGenerator.net** — Generate UUID v1/v4/v7. https://www.uuidgenerator.net/
+
+## Number Systems & Bitwise
+
+- **BitwiseCalc** — Online bitwise calculator for AND, OR, XOR, NOT, shifts on binary/decimal/hex with 32-bit & 64-bit precision. https://bitwisecalc.com/
 
 ## Cookies & Tokens
 
