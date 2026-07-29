@@ -36,6 +36,7 @@ PRs welcome – see **Contributing**.
 ## JSON / YAML / REGEX
 
 - **JSONFormatter.org** — Format/validate/convert JSON↔CSV/XML/YAML. https://jsonformatter.org/
+- **TextBases JSON Formatter** — Format, validate, and minify JSON directly in the browser without signup. https://textbases.app/developer-tools/json-formatter/
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
 - **YAML Lint** — Validate YAML quickly. https://www.yamllint.com/
 - **RegExr** — Learn, build & test RegEx with cheatsheets. https://regexr.com/
