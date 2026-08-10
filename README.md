@@ -38,6 +38,7 @@ PRs welcome – see **Contributing**.
 - **JSONFormatter.org** — Format/validate/convert JSON↔CSV/XML/YAML. https://jsonformatter.org/
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
 - **YAML Lint** — Validate YAML quickly. https://www.yamllint.com/
+- **Korelyy** — Privacy-first all-in-one collection of 100+ free online tools (image, PDF, JSON, unit, generators). No signup, runs entirely in your browser, six languages. https://korelyy.com/
 - **RegExr** — Learn, build & test RegEx with cheatsheets. https://regexr.com/
 
 ## Format / Minify / Unminify
