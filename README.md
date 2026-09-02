@@ -34,6 +34,7 @@ PRs welcome – see **Contributing**.
 - **curlconverter.com** — Turn cURL into Python/JS/Go/etc. https://curlconverter.com/
 
 ## JSON / YAML / REGEX
+- [Toolfyra JSON Formatter](https://toolfyra.com/json-formatter.html) & [Regex Tester](https://toolfyra.com/regex-tester.html) — free, no-signup, 100% browser-based.
 
 - **JSONFormatter.org** — Format/validate/convert JSON↔CSV/XML/YAML. https://jsonformatter.org/
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
@@ -54,11 +55,13 @@ PRs welcome – see **Contributing**.
 - **dalibo-explain** — PostgreSQL EXPLAIN visualizer. https://explain.dalibo.com/
 
 ## Time & IDs
+- [Toolfyra Timestamp Converter](https://toolfyra.com/timestamp-converter.html) & [UUID Generator](https://toolfyra.com/uuid-generator.html) — free, no-signup, client-side.
 
 - **Epoch Converter** — Epoch ↔ human-readable datetime. https://www.epochconverter.com/
 - **UUIDGenerator.net** — Generate UUID v1/v4/v7. https://www.uuidgenerator.net/
 
 ## Cookies & Tokens
+- [Toolfyra JWT Decoder](https://toolfyra.com/jwt-decoder.html) — decodes JWTs entirely in the browser, no signup.
 
 - **JWT.io** — Decode/verify JWTs (HS/RS/ES), live header/payload. https://jwt.io/
 
@@ -70,6 +73,7 @@ PRs welcome – see **Contributing**.
 - **PageSpeed Insights** — Performance audits & Core Web Vitals. https://pagespeed.web.dev/
 
 ## Cron Expression Helpers
+- [Toolfyra Cron Generator](https://toolfyra.com/cron-expression-generator.html) — build & explain cron expressions, free, no signup.
 
 - **crontab.guru** — Quick editor & next-run preview. https://crontab.guru/
 
