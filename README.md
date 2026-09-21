@@ -64,6 +64,7 @@ PRs welcome – see **Contributing**.
 
 ## Network & Site Health
 
+- **NextReset** — Check source-linked Codex reset history and official AI-service incidents with a browser-local timer. https://nextreset.ai/
 - **SSL Labs Server Test** — Deep TLS/SSL analysis. https://www.ssllabs.com/ssltest/
 - **Security Headers** — Scan & grade HTTP security headers. https://securityheaders.com/
 - **DNSChecker** — DNS propagation checks. https://dnschecker.org/
