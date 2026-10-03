@@ -35,6 +35,7 @@ PRs welcome – see **Contributing**.
 
 ## JSON / YAML / REGEX
 
+- **BestJSON** — Validate JSON, preview repairs and compare structures locally without an account. https://bestjson.com/
 - **JSONFormatter.org** — Format/validate/convert JSON↔CSV/XML/YAML. https://jsonformatter.org/
 - **jq Playground** — Try jq in the browser. https://play.jqlang.org/
 - **YAML Lint** — Validate YAML quickly. https://www.yamllint.com/
