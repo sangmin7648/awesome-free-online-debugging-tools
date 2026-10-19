@@ -68,6 +68,9 @@ PRs welcome – see **Contributing**.
 - **Security Headers** — Scan & grade HTTP security headers. https://securityheaders.com/
 - **DNSChecker** — DNS propagation checks. https://dnschecker.org/
 - **PageSpeed Insights** — Performance audits & Core Web Vitals. https://pagespeed.web.dev/
+- **17NAS IPv6 Test** — Free IPv6 connectivity test with IPv4/IPv6 addresses, latency and ISP info. https://17nas.com/ipv6-test.php
+- **17NAS NAT Test** — Free NAT type test for gaming, VoIP and P2P connectivity. https://17nas.com/nat-test.php
+- **17NAS Port Check** — Free online TCP port checker. https://17nas.com/port-check.php
 
 ## Cron Expression Helpers
 
